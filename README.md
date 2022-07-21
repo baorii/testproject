@@ -4,7 +4,7 @@ I want to understand:
 - Cloning (VS Code) - Completed
 - SSH Keys - Completed
 - Comitting - Completed
-- Pushing
+- Pushing - Completed
 - Branching
 - Undoing
 - Forking

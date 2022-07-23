@@ -1,3 +1,2 @@
-#git_test
 Following along The Odin Project
 Hello Odin!

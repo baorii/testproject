@@ -5,6 +5,6 @@ I want to understand:
 - SSH Keys - Completed
 - Comitting - Completed
 - Pushing - Completed
-- Branching
+- Branching 
 - Undoing
-- Forking
+- Forking - Completed (Not in this repository as it is the acquiring of another's repository.)

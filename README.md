@@ -6,5 +6,5 @@ I want to understand:
 - Comitting - Completed
 - Pushing - Completed
 - Branching 
-- Undoing
+- Undoing - Completed
 - Forking - Completed (Not in this repository as it is the acquiring of another's repository.)

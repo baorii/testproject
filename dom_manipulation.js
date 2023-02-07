@@ -32,3 +32,21 @@ div3.appendChild(p);
 
 container.appendChild(div3);
 
+//Buttons and Event listners
+const div4 = document.createElement('div');
+const btnMade = document.querySelector('#uni')
+const btnGenerated = document.createElement('button')
+
+btnGenerated.addEventListener('dblclick', () => {alert("Hi!!")}); //uses arrow function syntax
+btnGenerated.addEventListener('click', () => {btnGenerated.textContent="HI"}); // multiple events on single element
+btnMade.addEventListener('click', function(e) {console.log(e.target)} ); //declares function within event 
+
+div4.appendChild(btnGenerated)
+container.appendChild(div4)
+
+const btn = document.querySelectorAll('button')
+btn.forEach((btn) => {
+    btn.addEventListener('click', () => {alert("No");} )
+})
+
+

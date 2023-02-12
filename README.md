@@ -5,6 +5,6 @@ I want to understand:
 - SSH Keys - Completed
 - Comitting - Completed
 - Pushing - Completed
-- Branching 
+- Branching - Completed (Used in odin-rock-paper-scissors)
 - Undoing - Completed
-- Forking - Completed (Not in this repository as it is the acquiring of another's repository.)
+- Forking - Completed (Used to attempt premade coding exercises)
